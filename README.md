@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashslife
-- 👀 I’m interested in learning New things 
-- 🌱 I’m currently learning Machine learning 
-- 💞️ I’m looking to collaborate on -
+- 👀 I’m interested in learning New things in always (" keeps learning always " ) 
+- 🌱 I’m currently learning Machine learning and DSA , compitative programiming etc
+- 💞️ I’m looking to collaborate on - for open source
 - 📫 How to reach me Akashslife@gmail.com
 
 <!---
